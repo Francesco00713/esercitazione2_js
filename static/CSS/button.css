@@ -1,0 +1,33 @@
+.button{
+    margin-top: 40px;
+}
+
+.button label{
+    line-height: auto;
+    font-size: 16px;
+    text-align: left;
+}
+
+.button label, form{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.button #guess{
+    height: 60px;
+    width: 350px;
+    border: none;
+    border-radius: 5px;
+}
+
+.button #guessBtn{
+    height: 60px;
+    width: 350px;
+    line-height: auto;
+    font-size: 24px;
+    background-color: #3AE3A8;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}

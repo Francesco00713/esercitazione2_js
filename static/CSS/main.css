@@ -1,0 +1,16 @@
+.main{
+    margin-top: 48px;
+    
+}
+
+.main ol{
+    text-align: left;
+    line-height: auto;
+    font-size: 16px;
+}
+
+.main ul{
+    text-align: left;
+    line-height: auto;
+    font-size: 16px;
+}
